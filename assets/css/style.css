@@ -1,0 +1,117 @@
+html,
+body,
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Open Sans', sans-serif;
+	color: #eee;
+	font-size: 16px;
+}
+
+main {
+	max-width: 100vw;
+	height: 100vh;
+	padding-bottom: 30vh;
+	overflow: hidden;
+	background: linear-gradient(0deg, #000000e0, #000000c0),
+		url('../images/background.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 50% 10%;
+}
+
+.logo-container > img {
+	width: 25%;
+	height: auto;
+	min-width: 215px;
+}
+
+p {
+	font-size: 1rem;
+}
+
+.icon-container {
+	border: 2px solid #ccc;
+	padding: 15px;
+	border-radius: 50%;
+	margin: 0px 20px;
+	cursor: pointer;
+	transition: 0.5s;
+}
+
+/* FACEBOOK ICON EFFECTS */
+.icon-container:hover #facebook {
+	background-color: blue;
+}
+.icon-container:nth-child(1):hover {
+	border: 2px solid blue;
+}
+#facebook {
+	mask-image: url('../images/facebook.svg');
+	-webkit-mask-image: url('../images/facebook.svg');
+}
+
+/* INSTAGRAM ICON EFFETS */
+.icon-container:hover #instagram {
+	background: linear-gradient(
+		#405de6,
+		#5851db,
+		#833ab4,
+		#c13584,
+		#e1306c,
+		#fd1d1d,
+		#f56040,
+		#fcaf45,
+		#ffdc80
+	);
+}
+.icon-container:nth-child(2):hover {
+	border: 2px solid #5851db;
+}
+#instagram {
+	mask-image: url('../images/instagram.svg');
+	-webkit-mask-image: url('../images/instagram.svg');
+}
+
+/*WHATSAPP ICON EFFECTS*/
+.icon-container:hover #whatsapp {
+	background-color: green;
+}
+.icon-container:nth-child(3):hover {
+	border: 2px solid green;
+}
+#whatsapp {
+	mask-image: url('../images/whatsapp.svg');
+	-webkit-mask-image: url('../images/whatsapp.svg');
+}
+
+.icon {
+	width: 30px;
+	height: 30px;
+	background-color: #eee;
+	transition: 0.5s;
+	mask-size: contain;
+	mask-repeat: no-repeat;
+	mask-position: center;
+	mask-type: luminance;
+	-webkit-mask-size: contain;
+	-webkit-mask-repeat: no-repeat;
+	-webkit-mask-position: center;
+	-webkit-mask-type: luminance;
+}
+
+footer {
+	bottom: 0px;
+	font-weight: 300;
+}
+
+@media (min-width: 768px) {
+	main {
+		background: linear-gradient(0deg, #000000e0, #000000e0),
+			url('../images/background.jpg');
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: 50% 10%;
+	}
+}
