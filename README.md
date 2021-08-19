@@ -3,7 +3,7 @@
 ---
 
 ## Veja na prática
-- [@DEMO](https://mateuscarvalho.codecompany.app/maintenance) - Demonstração prática da página.
+- [DEMO HERE](https://mateuscarvalho.codecompany.app/maintenance){:target="_blank"} - Demonstração prática da página.
 ## Contéudo
 
 - [Sobre](#about)
