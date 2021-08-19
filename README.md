@@ -3,7 +3,8 @@
 ---
 
 ## Veja na prática
-- [DEMO HERE](https://mateuscarvalho.codecompany.app/maintenance){:target="_blank"} - Demonstração prática da página.
+- <a href="https://mateuscarvalho.codecompany.app/maintenance" target="_blank">DEMONSTRAÇÃO</a>
+
 ## Contéudo
 
 - [Sobre](#about)
