@@ -1,46 +1,28 @@
-<h3 align="center">Página estática de manutenção</h3>
+# Página estática de manutenção/construção.
 
 ---
 
-## Veja na prática
-- <a href="https://mateuscarvalho.codecompany.app/maintenance" target="_blank">DEMONSTRAÇÃO</a>
-
 ## Contéudo
 
+- [Veja na prática](#demo)
 - [Sobre](#about)
-- [Como utilizar](#getting_started)
 - [Utilização](#usage)
 - [Autor](#authors)
 
+
+## Veja na prática <a name = "demo"></a>
+
+- [DEMONSTRAÇÃO](https://mateuscarvalho.codecompany.app/maintenance)
+
+
 ## Sobre <a name = "about"></a>
 
-Página estática para sites em manuteção ou em construção com intuito de redirecionar o usuário para os seus outros meios de contato digital.
+Este é um projeto de portifólio simples com demonstração de UI & UX em uma página estática:
 
-## Como utilizar <a name = "getting_started"></a>
+## Utilização <a name = "usage"></a>
 
-Altere os itens da tag head para que se adequem ao seu projeto. Tags para alteração: 
-  * title,
-  * description,
-  * favicon
-  * og:title
-  * og:description
-  * og:url
-  * og:sitename
-  * og:image
+Este projeto tem como objetivo apenas apresentação em meu portifólio pessoal e como objeto de estudos para outros desenvolvedores.
 
-Altere os itens da tag body para que se adequem ao seu projeto. Itens para alteração:
-  * textos
-  * links das redes sociais
-  * copyright
+## Autor
 
-Altere os itens de estilização em style.css para que se adequem ao seu projeto. Itens para alteração:
-  * main > background image
-
-
-## Utilização <a name="usage"></a>
-
-Este código fonte é de livre utilização. Fique a vontade para aproveitá-lo.
-
-##  Autor <a name = "authors"></a>
-
-- [@mateuscarvalhodc01](https://github.com/mateuscarvalhodc01)
+[@mateuscarvalhodc01](https://github.com/mateuscarvalhodc01)
