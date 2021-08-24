@@ -17,11 +17,11 @@
 
 ## Sobre <a name = "about"></a>
 
-Este é um projeto de portifólio simples com demonstração de UI & UX em uma página estática:
+Este é um projeto de portfólio simples com demonstração de UI & UX em uma página estática:
 
 ## Utilização <a name = "usage"></a>
 
-Este projeto tem como objetivo apenas apresentação em meu portifólio pessoal e como objeto de estudos para outros desenvolvedores.
+Este projeto tem como objetivo apenas apresentação em meu portfólio pessoal e como objeto de estudos para outros desenvolvedores.
 
 ## Autor
 
